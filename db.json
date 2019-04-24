@@ -25,9 +25,9 @@
       "postId": 1
     }
   ],
-  "profile": {
-    "a": "David",
-    "b": "James",
-    "c": "Evan",
-  }
+  "profile": [
+    {"a": "David"},
+    {"b": "James"},
+    {"c": "Evan"}
+  ]
 }
