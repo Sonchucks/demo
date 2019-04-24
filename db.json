@@ -1,9 +1,11 @@
 {
-  "Users": [
+  "posts": [
     {
-      "a": "David",
-      "b": "James",
-      "c": "Evan",
-    },
+      "id": 1,
+      "title": "hello"
+    }
   ],
+  "profile": {
+    "name": "typicode"
+  }
 }
