@@ -26,6 +26,8 @@
     }
   ],
   "profile": {
-    "name": "typicode"
+    "a": "David"
+    "b": "James",
+    "c": "Evan",
   }
 }
